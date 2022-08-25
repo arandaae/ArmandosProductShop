@@ -1,4 +1,7 @@
-﻿using ArmandosProductShop.Models;
+﻿using System;
+using System.Linq;
+using System.Threading.Tasks;
+using ArmandosProductShop.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 

@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ArmandosProductShop.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ArmandosProductShop.Models
 {
@@ -10,68 +12,68 @@ namespace ArmandosProductShop.Models
         /// <summary>
         /// A database represented as a list
         /// </summary>
-        /// <returns></returns>
+        /// <returns></returns> 
         public static List<Product> GetProducts()
         {
             List<Product> products = new List<Product>()
             {
                 new Product()
                 {
-                    ProductId = 1,
+                    ProductID = 1,
                     Name = "Product 1",
                     Price = (decimal) 499.00
                 },
                 new Product
                 {
-                    ProductId = 2,
+                    ProductID = 2,
                     Name = "Best Product Ever",
                     Price = (decimal) 1109.00
                 },
                 new Product
                 {
-                    ProductId = 3,
+                    ProductID = 3,
                     Name = "Third Product",
                     Price = (decimal) 2017.00
                 },
                 new Product
                 {
-                    ProductId = 4,
+                    ProductID = 4,
                     Name = "Worst Product Ever",
                     Price = (decimal) 3000.00
                 },
                 new Product
                 {
-                    ProductId = 5,
+                    ProductID = 5,
                     Name = "Buy this",
                     Price = (decimal) 1.00
                 },
                 new Product
                 {
-                    ProductId = 6,
+                    ProductID = 6,
                     Name = "Mystery Item",
                     Price = (decimal) 10.00
                 },
                 new Product
                 {
-                    ProductId = 7,
+                    ProductID = 7,
                     Name = "Product 7",
                     Price = (decimal) 7.00
                 },
                 new Product
                 {
-                    ProductId = 8,
-                    Name = "Product 8",
+                    ProductID = 8,
+                    Name = "Product of the Month",
                     Price = (decimal) 50.99
                 },
                 new Product
                 {
-                    ProductId = 9,
+                    ProductID = 9,
                     Name = "Product 9",
                     Price = (decimal) 9.99
                 },
                 new Product
                 {
-                    ProductId = 10,
+                    ProductID = 10,
                     Name = "Product 10",
                     Price = (decimal) 400.00
                 },
@@ -81,7 +83,7 @@ namespace ArmandosProductShop.Models
 
         public static Product GetProduct(string slug)
         {
-            List<Product> products = DataBase.GetProduct();
+            List<Product> products = DataBase.GetProducts();
 
             foreach(Product p in products)
             {

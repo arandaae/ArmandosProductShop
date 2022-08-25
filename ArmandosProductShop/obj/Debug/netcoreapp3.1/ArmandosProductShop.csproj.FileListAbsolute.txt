@@ -21,10 +21,9 @@ D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1
 D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\ArmandosProductShop.TagHelpers.output.cache
 D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\ArmandosProductShop.RazorCoreGenerate.cache
 D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
 D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\ArmandosProductShop.RazorTargetAssemblyInfo.cache
@@ -34,3 +33,4 @@ D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1
 D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\ArmandosProductShop.pdb
 D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\ArmandosProductShop.genruntimeconfig.cache
 D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\ArmandosProductShop.csproj.CopyComplete
+D:\Armando\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
