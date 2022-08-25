@@ -16,6 +16,7 @@ namespace ArmandosProductShop.Controllers
             return View();
         }
 
+        [Route("[action]")] // When the user types local host/About this action will be executed and the corresponding View will load
         public IActionResult About()
         {
             return View();
