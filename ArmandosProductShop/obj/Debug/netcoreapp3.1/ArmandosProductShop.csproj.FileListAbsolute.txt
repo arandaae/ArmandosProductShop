@@ -142,3 +142,5 @@ F:\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\A
 F:\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
 F:\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 F:\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\AddUpdate.cshtml.g.cs
+F:\Repos\ArmandosProductShop\ArmandosProductShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
