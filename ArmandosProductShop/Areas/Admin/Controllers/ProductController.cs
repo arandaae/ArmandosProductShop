@@ -37,7 +37,7 @@ namespace ArmandosProductShop.Areas.Admin.Controllers
                 products=context.Products.Where(p => p.Category.Name == id).ToList();
             }
 
-            ViewBag.Categories = categories;
+            ViewBag.AllCategories = categories;
             ViewBag.SelectedCategoryName = id;
 
             return View(products);
