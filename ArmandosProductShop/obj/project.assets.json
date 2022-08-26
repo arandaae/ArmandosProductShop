@@ -5196,11 +5196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Armando\\Repos\\ArmandosProductShop\\ArmandosProductShop\\ArmandosProductShop.csproj",
+      "projectUniqueName": "F:\\Repos\\ArmandosProductShop\\ArmandosProductShop\\ArmandosProductShop.csproj",
       "projectName": "ArmandosProductShop",
-      "projectPath": "D:\\Armando\\Repos\\ArmandosProductShop\\ArmandosProductShop\\ArmandosProductShop.csproj",
+      "projectPath": "F:\\Repos\\ArmandosProductShop\\ArmandosProductShop\\ArmandosProductShop.csproj",
       "packagesPath": "C:\\Users\\Armando\\.nuget\\packages\\",
-      "outputPath": "D:\\Armando\\Repos\\ArmandosProductShop\\ArmandosProductShop\\obj\\",
+      "outputPath": "F:\\Repos\\ArmandosProductShop\\ArmandosProductShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

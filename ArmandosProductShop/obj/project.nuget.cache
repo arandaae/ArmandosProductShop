@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gk9rB7FrRfcRTF4bl7cbG09jh0D4rShwDnhb2lDUGB2RdTp4JgwSoyU0zPWM8v9pxOig0c4o3BW2JTxqAnlPqQ==",
+  "dgSpecHash": "NEKQ8zBOw9uJ9BGvlsbbv0ZzjiCd6Mwb8Oni03V4yFqe6SJU6ayPgd8w++vWdeU4U5SJFld3b3pOZpanXOuDJg==",
   "success": true,
-  "projectFilePath": "D:\\Armando\\Repos\\ArmandosProductShop\\ArmandosProductShop\\ArmandosProductShop.csproj",
+  "projectFilePath": "F:\\Repos\\ArmandosProductShop\\ArmandosProductShop\\ArmandosProductShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Armando\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Armando\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
