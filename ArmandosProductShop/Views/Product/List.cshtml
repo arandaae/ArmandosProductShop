@@ -17,6 +17,10 @@
                  @category.Name
                 </a>
             }
+            <a asp-controller="Product" asp-action="List" asp-route-id="Specials" class="list-group-item
+             @(ViewBag.SelectedCategoryName == "Specials" ? "active" : "")">
+                Special Deals
+            </a>
         </div>
     </div>
 
@@ -49,6 +53,5 @@
         </table>
     </div>
 </div>
-
 
 <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Home</a>

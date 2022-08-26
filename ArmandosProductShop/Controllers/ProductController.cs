@@ -51,6 +51,10 @@ namespace ArmandosProductShop.Controllers
             {
                 products = context.Products.OrderBy(p => p.ProductID).ToList(); // Gets all the products if there is no id specified for this action 
             }
+            else if (id == "Specials") //Products that are currently available at a special price
+            {
+                products = context.Products.Where(p => p.Price < 5.0M).OrderBy(p => p.ProductID).ToList();
+            }
             else
             {
                 products = context.Products.Where(p => p.Category.Name == id).OrderBy(p => p.ProductID).ToList();
