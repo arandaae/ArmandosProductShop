@@ -60,10 +60,14 @@ namespace ArmandosProductShop.Controllers
                 products = context.Products.Where(p => p.Category.Name == id).OrderBy(p => p.ProductID).ToList();
             }
 
-            ViewBag.SelectedCategoryName = id;
-            ViewBag.AllCategories = categories;
+            var model = new ProductListViewModel
+            {
+                Categories = categories,
+                Products = products,
+                SelectedCategory = id
+            };
 
-            return View(products);
+            return View(model);
         }
 
     }
